@@ -18,16 +18,6 @@ This repository contains four modular machine learning projects developed for in
 ├── requirements.txt         # Dependencies
 └── README.md                # Project documentation
 
-
-
-# ⚙️ Installation
-Clone the repository and install dependencies:
-
-git clone https://github.com/your-username/internship-projects.git
-cd internship-projects
-pip install -r requirements.txt
-
-
 # ▶️ Usage
 Run any project pipeline:
 Titanic survival prediction
